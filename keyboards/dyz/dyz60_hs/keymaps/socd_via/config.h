@@ -1,0 +1,1 @@
+#define EECONFIG_KB_DATA_SIZE 7
