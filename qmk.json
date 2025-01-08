@@ -1,6 +1,8 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["dyz/dyz60_hs", "bilabar"]
+        ["dyz/dyz60_hs", "bilabar"],
+        ["dyz/dyz60_hs", "socd"],
+        ["dyz/dyz60_hs", "socd_via"]
     ]
 }
